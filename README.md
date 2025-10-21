@@ -12,13 +12,13 @@
 ### 🚀 About Me
 
 - 🔧 **Roblox Tools Developer** specializing in **Luau modules and utilities**
-- 📚 I create **reusable libraries**, **developer tools**, and **efficient modules** for Roblox
+- 📚 I create **reusable libraries**, **developer tools**, and **efficient modules** (and sometimes other stuff) for Roblox
 - 🎯 Focused on writing **clean, documented, and performant Luau code**
-- 💡 My work helps other developers build better Roblox experiences
+- 💡 My work helps other developers build better (Optimized & Secure) Roblox experiences
 - 🛠️ Proficient in **advanced Luau features** and **Roblox Studio APIs**
 - 🔄 Occasionally use **Python** for supporting tools and automation
 - 🌱 Currently exploring **package management** and **advanced module patterns**
-- 💬 Ask me about **Luau modules, Roblox developer tools, or code architecture**
+- 💬 Ask me about **Luau modules, Roblox developer tools, or code architecture, or Roblox internals**
 
 ---
 
