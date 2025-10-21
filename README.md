@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm meme! 👋</h1>
-<h3 align="center">Roblox Tools & Modules Developer | Creating efficient Luau libraries for the Roblox ecosystem</h3>
+<h3 align="center">Roblox Tools & Modules Developer | Creating efficient Luau libraries for the Roblox ecosystem / Developer Community</h3>
 
 <p align="center">
   <a href="https://www.roblox.com/users/7476452962/profile">
@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🔧 **Roblox Tools Developer** specializing in **Luau modules and utilities**
-- 📚 I create **reusable libraries**, **developer tools**, and **efficient modules** (and sometimes other stuff) for Roblox
+- 📚 I create **reusable libraries**, **developer tools**, and **efficient modules** (and sometimes other stuff) for Roblox devs
 - 🎯 Focused on writing **clean, documented, and performant Luau code**
 - 💡 My work helps other developers build better (Optimized & Secure) Roblox experiences
 - 🛠️ Proficient in **advanced Luau features** and **Roblox Studio APIs**
