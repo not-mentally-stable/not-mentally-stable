@@ -17,7 +17,7 @@
 - 💡 My work helps other developers build better (Optimized & Secure) Roblox experiences
 - 🛠️ Proficient in **advanced Luau features** and **Roblox Studio APIs**
 - 🔄 Occasionally use **Python** for supporting tools and automation
-- 🌱 Currently exploring **package management** and **advanced module patterns**
+- 🌱 Currently exploring **Luau type annotation** and **advanced OOP(Object Oriented Programming)**
 - 💬 Ask me about **Luau modules, Roblox developer tools, or code architecture, or Roblox internals**
 
 ---
