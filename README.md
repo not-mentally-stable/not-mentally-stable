@@ -45,7 +45,7 @@
 - **Performance Libraries**: Optimized solutions for complex operations
 - **API Wrappers**: Simplified interfaces for Roblox services and features
 - **Code Templates**: Starting points and boilerplate for common patterns
-- **Other**: i also sometimes make random stuff for entertainment, feel free to use them
+- **Other**: i also sometimes make random stuff for entertainment in luau or even outside luau, feel free to use them
 ---
 
 ### 📈 GitHub Stats
