@@ -25,10 +25,10 @@
 ### 💻 My Languages & Technologies
 
 <p align="center">
-  <a href="http://luau.org/">
+  <a href="https://luau.org/">
     <img src="https://img.shields.io/badge/Luau-%2300A2FF?style=for-the-badge&logo=luau&labelColor=black" alt="Luau">
   </a>
-  <a href="https://www.luau.org/">
+  <a href="https://www.lua.org/">
     <img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&labelColor=black" alt="Lua">
   </a>
   <a href="https://www.python.org/">
