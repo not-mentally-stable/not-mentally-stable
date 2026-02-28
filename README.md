@@ -25,7 +25,7 @@
 ### 💻 My Languages & Technologies
 
 <p align="center">
-  <a href="https://create.roblox.com/docs/reference/engine/luau">
+  <a href="http://luau.org/">
     <img src="https://img.shields.io/badge/Luau-%2300A2FF?style=for-the-badge&logo=luau&labelColor=black" alt="Luau">
   </a>
   <a href="https://www.luau.org/">
