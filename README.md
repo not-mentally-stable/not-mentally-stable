@@ -46,11 +46,6 @@
 - **API Wrappers**: Simplified interfaces for Roblox services and features
 - **Code Templates**: Starting points and boilerplate for common patterns
 - **Other**: i also sometimes make random stuff for entertainment in luau or even outside luau, feel free to use them
----
-
-### 📈 GitHub Stats
-
-[![](https://visitcount.itsvg.in/api?id=not-mentally-stable&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
