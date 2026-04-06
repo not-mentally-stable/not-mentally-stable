@@ -34,8 +34,8 @@
 - **Code Templates**: Starting points and boilerplate for common patterns
 - **Other**: i also sometimes make random stuff for entertainment in luau or even outside luau, feel free to use them
 
----
-
+### 📊 Stats
+![GitHubCard](https://githubcard.com/not-mentally-stable.svg?d=UWWRYTWx)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=not-mentally-stable&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
